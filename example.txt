@@ -1,0 +1,20 @@
+project/        # Use '#' for comments
+├── data/   # Folders end with '/'
+├── src/
+│   ├── main.py
+│   └── utils.py
+├── tests/
+│   └── test_main.py
+├── docs/
+│   ├── README.md
+│   └── api/
+│       └── API.md
+├── 1/
+│   └── 2/
+│       └── 3/
+│           └── 4
+├── requirements.txt
+└── a/
+    └── b/
+        └── c/
+            └── d
